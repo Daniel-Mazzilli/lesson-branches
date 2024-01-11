@@ -6,4 +6,6 @@ This is our lesson on git collaborations
 
 Fav movies of 2023
 - Across the Spiderve
-- Gran Turismo 
+- Gran Turismo
+- Past Lives
+- The Iron Claw
